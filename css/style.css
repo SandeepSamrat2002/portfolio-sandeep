@@ -1,0 +1,12 @@
+body{
+    background-color: rgba(0, 0, 0, 0.867);
+}
+.user-img{
+    height: 230px;
+    width: 200px;
+    border-radius: 70%;
+
+}
+a{
+    text-decoration: none;
+}
